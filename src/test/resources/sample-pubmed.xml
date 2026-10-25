@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2024//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_240101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">12345</PMID>
+      <Article PubModel="Print">
+        <Journal>
+          <JournalIssue CitedMedium="Print">
+            <PubDate><MedlineDate>2019 Jan-Feb</MedlineDate></PubDate>
+          </JournalIssue>
+          <Title>Clinical Infectious Diseases</Title>
+        </Journal>
+        <ArticleTitle>Borrelia burgdorferi in <i>Ixodes</i> ticks.</ArticleTitle>
+        <Abstract>
+          <AbstractText Label="BACKGROUND">Lyme disease is common.</AbstractText>
+          <AbstractText Label="RESULTS">Prevalence was 20%.</AbstractText>
+        </Abstract>
+        <AuthorList>
+          <Author><LastName>Steere</LastName><ForeName>Allen</ForeName></Author>
+          <Author><CollectiveName>Lyme Study Group</CollectiveName></Author>
+        </AuthorList>
+        <PublicationTypeList><PublicationType>Journal Article</PublicationType></PublicationTypeList>
+      </Article>
+      <MeshHeadingList>
+        <MeshHeading><DescriptorName>Lyme Disease</DescriptorName></MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">12345</ArticleId>
+        <ArticleId IdType="doi">10.1000/xyz</ArticleId>
+        <ArticleId IdType="pmc">PMC999</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>
